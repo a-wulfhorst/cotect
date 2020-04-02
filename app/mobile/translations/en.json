@@ -71,7 +71,7 @@
             },
             "contacts": {
                 "amountTitle": "With how many persons did you have contact?",
-                "title": "Who did you had contact with during the last days?",
+                "title": "Who did you have contact with during the last days?",
                 "noDatesDesc": "No dates were selected.",
                 "datesDesc": "In contact {{visitCount}} times between {{earliestDate}} - {{latestDate}}",
                 "singleDateDesc": "In contact on {{date}}.",
