@@ -71,14 +71,14 @@
             },
             "contacts": {
                 "amountTitle": "With how many persons did you have contact?",
-                "title": "Who did you had contact with during the last days?",
+                "title": "Who did you have contact with during the last days?",
                 "noDatesDesc": "No dates were selected.",
                 "datesDesc": "In contact {{visitCount}} times between {{earliestDate}} - {{latestDate}}",
                 "singleDateDesc": "In contact on {{date}}.",
                 "dialogTitle": "When have you been in contact?",
                 "addContact": "Add contact",
                 "permissionTitle": "Contact Permission",
-                "permissionMessage": "To add contacts, cotect needs to access your contact list. Information about your contacts will never be uploaded or stored on our servers."
+                "permissionMessage": "To add contacts, Cotect needs to access your contact list. Information about your contacts will never be uploaded or stored on our servers."
             },
             "exit": {
                 "primaryAction": "Exit",
